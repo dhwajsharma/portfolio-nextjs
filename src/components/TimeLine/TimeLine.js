@@ -19,7 +19,7 @@ const Timeline = () => {
 
   //   if (carouselRef.current) {
   //     const scrollLeft = Math.floor(carouselRef.current.scrollWidth * 0.7 * (i / TimeLineData.length));
-      
+
   //     scroll(carouselRef.current, scrollLeft);
   //   }
   // }
@@ -44,7 +44,6 @@ const Timeline = () => {
 
   return (
     <div>
-      Timeline
     </div>
   );
 };

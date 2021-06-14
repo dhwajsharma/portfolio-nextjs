@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/4.png',
     tags: ['React', 'NextJs', 'vercel', 'Redux', 'React Router'],
     source: 'https://github.com/dhwajsharma/amazon-clone-nextjs',
-    visit: 'amazon-clone-nextjs-delta.vercel.app',
+    visit: 'https://amazon-clone-nextjs-delta.vercel.app',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/1.png',
     tags: ['React', 'firebase', 'Redux', 'React Router'],
     source: 'https://github.com/dhwajsharma/discord-clone-redux',
-    visit: 'discord-clone-redux-6e836.web.app/',
+    visit: 'https://discord-clone-redux-6e836.web.app/',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'firebase', 'Redux', 'React Router'],
     source: 'https://github.com/dhwajsharma/Gmail-clone-redux',
-    visit: 'clone-redux-4780a.web.app/',
+    visit: 'https://clone-redux-4780a.web.app/',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/3.png',
     tags: ['React', 'API', 'firebase'],
     source: 'https://github.com/dhwajsharma/hulu-clone-react',
-    visit: 'hulu-clone-react-2cda6.web.app/',
+    visit: 'https://hulu-clone-react-2cda6.web.app/',
     id: 3,
   },
 
