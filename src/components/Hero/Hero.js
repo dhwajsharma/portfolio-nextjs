@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         Front-End Dev
       </SectionText>
-      <Button>Learn More</Button>
+      <Button onClick={() => window.open("https://github.com/dhwajsharma", "_blank")}>Learn More</Button>
     </LeftSection>
   </Section>
 );
