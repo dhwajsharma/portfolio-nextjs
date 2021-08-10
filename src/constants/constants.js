@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Amazon Clone',
-    description: "Built Amazon Clone with React using vercel hosting. It has NextJs authentication. Redux is used for state management and React Router for routing.",
+    description: "Built Amazon Clone with NextJs using vercel hosting. It has NextJs authentication. Redux is used for state management and React Router for routing.",
     image: '/images/4.png',
     tags: ['React', 'NextJs', 'vercel', 'Redux', 'React Router'],
     source: 'https://github.com/dhwajsharma/amazon-clone-nextjs',
@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'hulu Clone',
-    description: "Built hulu Clone with React using firebase for hosting. Used TMDB API to list movies.",
+    title: 'Airbnb Clone',
+    description: "Built Airbnb Clone with NextJs using vercel hosting. It has dark mode built in and uses NextJs router for routing.",
     image: '/images/3.png',
-    tags: ['React', 'API', 'firebase'],
-    source: 'https://github.com/dhwajsharma/hulu-clone-react',
-    visit: 'https://hulu-clone-react-2cda6.web.app/',
+    tags: ['React', 'NextJs', 'vercel', 'Redux', 'React Router'],
+    source: 'https://github.com/dhwajsharma/airbnb-clone-nextjs',
+    visit: 'https://airbnb-clone-nextjs-eta.vercel.app/',
     id: 3,
   },
 
